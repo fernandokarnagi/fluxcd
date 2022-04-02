@@ -1,0 +1,1 @@
+kubectl --insecure-skip-tls-verify  --kubeconfig kubeconfig/kubeconfig.yml -n flux-system  get all
