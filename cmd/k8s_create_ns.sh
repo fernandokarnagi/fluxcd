@@ -1,0 +1,1 @@
+kubectl --insecure-skip-tls-verify  --kubeconfig kubeconfig/kubeconfig.yml create namespace web

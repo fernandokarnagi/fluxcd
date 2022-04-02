@@ -1,0 +1,1 @@
+flux --kubeconfig kubeconfig/kubeconfig.yml --insecure-skip-tls-verify get kustomizations --watch
