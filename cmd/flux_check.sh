@@ -1,0 +1,1 @@
+flux --kubeconfig kubeconfig/kubeconfig.yml check  --pre --insecure-skip-tls-verify
